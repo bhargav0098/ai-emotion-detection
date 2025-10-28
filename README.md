@@ -140,16 +140,10 @@ voice-emotion-detection-ai/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork this repo
-2. Create a new branch (`feature-branch-name`)
-3. Commit your changes
-4. Push and create a Pull Request
-
+Demo
 ---
+<img width="1301" height="380" alt="Screenshot 2025-10-28 235701" src="https://github.com/user-attachments/assets/3869eff0-9e88-49e2-9942-65118671cc03" />
+
 
 ## 📜 License
 
