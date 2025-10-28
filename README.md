@@ -154,6 +154,6 @@ You’re free to use, modify, and distribute this software with attribution.
 
 ## 🧑‍💻 Author
 
-**Renny (Bhargava Ram)**
+ (Bhargava Ram
 📧 bhargavram085@.com
 
